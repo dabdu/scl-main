@@ -62,8 +62,8 @@ const FieldAgentForm = () => {
       !email ||
       !phoneNumber ||
       !yearsOfExprience ||
-      !lat ||
-      !lng ||
+      // !lat ||
+      // !lng ||
       !address ||
       !state ||
       !town ||
